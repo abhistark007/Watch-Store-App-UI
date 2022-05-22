@@ -1,5 +1,10 @@
 # watch_store
 
+Inspiration: 
+https://dribbble.com/shots/16802978-Smart-Watch-App-UI-Design
+![image](https://user-images.githubusercontent.com/58290134/169699193-413c5de3-0dbe-4979-8011-636622b87ed5.png)
+
+
 A new Flutter project.
 
 ## Getting Started
